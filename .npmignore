@@ -1,0 +1,7 @@
+tests/
+tmp/
+samples/
+node_modules/
+.cache/
+.github/
+.husky/

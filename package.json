@@ -1,9 +1,9 @@
 {
-  "name": "highcharts-export-server",
+  "name": "@cubetiq/highcharts-export-server",
   "author": "Highsoft AS <support@highcharts.com> (http://www.highcharts.com/about)",
   "license": "MIT",
   "type": "module",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "main": "dist/index.esm.js",
   "exports": {
     ".": {
