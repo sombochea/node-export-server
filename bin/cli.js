@@ -55,7 +55,7 @@ const start = async () => {
       // Run the server
       await main.startServer({
         serverConfig: options.server,
-        uiConfig: options.ui,
+        uiConfig: options.ui
       });
     } else {
       // Perform batch exports
